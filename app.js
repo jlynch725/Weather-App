@@ -4,7 +4,7 @@ window.addEventListener("load", ()=> {
 
     if (navigator.geolocation) {
         navigator.geolocation.getCurrentPosition(position => {
-            console.log(GeolocationPosition);
+            console.log(GeolocationPosition);   /*Can't seem to call the position in the console*/
             /*long = position.coords.longitude;
             lat = position.coords.latitude;
             const proxy = 'https://cors-anywhere.herokuapp.com/';
