@@ -1,2 +1,2 @@
 # Weather App
- Functioning weather application 
+Weather application: In Progress
